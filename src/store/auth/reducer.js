@@ -1,5 +1,5 @@
 //import { lastIndexOf } from "lodash";
-import * as actions from "./actionTypes";
+import * as actions from "./auth/actionTypes";
 
 let lastId = 0;
 
