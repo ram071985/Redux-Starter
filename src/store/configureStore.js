@@ -2,5 +2,5 @@ import { configureStore } from "@reduxjs/toolkit";
 import reducer from "./bugs";
 
 export default function () {
-  return store = configureStore({ reducer });
+  return configureStore({ reducer });
 }
